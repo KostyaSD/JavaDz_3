@@ -91,6 +91,7 @@ public class Main {
         System.out.println("Максимальный эллемент в массиве " + maxEll);
     }
 
+// метод для 5го задания.
     public static void printArr(int len, int initialValue){
         int[] printArr = new int[len];
         for (int i = 0; i < printArr.length; i++){
